@@ -30,8 +30,8 @@
 - Virtualization environment stable and properly configured
 
 ## Evidence
-"C:\Users\wcann\Documents\GitHub\IT-Portfolio\evidence\lab 001\Screenshot 2025-10-25 130016.png"
-"C:\Users\wcann\Documents\GitHub\IT-Portfolio\evidence\lab 001\Screenshot 2025-10-25 130124.png"
+"https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20001/Screenshot%202025-10-25%20112226.png"
+""
 "C:\Users\wcann\Documents\GitHub\IT-Portfolio\evidence\lab 001\Screenshot 2025-10-25 130539.png"
 "C:\Users\wcann\Documents\GitHub\IT-Portfolio\evidence\lab 001\Screenshot 2025-10-25 112226.png"
 **Status:** ✅ Complete
