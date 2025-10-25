@@ -47,6 +47,15 @@
 - Systematic troubleshooting resolves media recognition problems
 
 ## Evidence
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20213707.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20213725.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20213738.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20215739.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20215829.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20215841.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20215912.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20215928.png
+https://github.com/Wkamoah/IT-Portfolio/blob/main/evidence/lab%20002/Screenshot%202025-10-25%20220017.png
 
 
 **Status:** ✅ Complete
