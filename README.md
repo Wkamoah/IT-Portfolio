@@ -76,8 +76,8 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 | Lab # | Topic | Status | Evidence |
 |-------|-------|--------|----------|
-| 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](labs/pc-hardware-diagnostics.md) |
-| 002 | VM Boot Configuration Troubleshooting| 🚧 In Progress | [View Lab](labs/vm-boot-configuration-troubleshooting.md) |
+| 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/pc-hardware%20diagnostics.md) |
+| 002 | VM Boot Configuration Troubleshooting| 🚧 In Progress | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
 | 003 | Active Directory Setup | ◻️ Planned | |
 | 004 | PowerShell User Management | ◻️ Planned | |
 
