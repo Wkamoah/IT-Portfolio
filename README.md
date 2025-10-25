@@ -23,7 +23,6 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Applied solution to original DC01 VM
 **Outcome:** Both domain controllers now operational, deeper understanding of virtualization platform
 
-*"The obstacle is the path" - each challenge deepens practical system administration knowledge.*
 
 ---
 
@@ -32,49 +31,23 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 ### Current Setup
 - **Virtualization:** Oracle VirtualBox
 - **Domain Controller:** Windows Server 2022 (DC01)
-- **Client Machine:** Windows 10/11
+- **Client Machine:** Windows 10
 - **Ticketing System:** Freshdesk for lab documentation
-- **Version Control:** Git/GitHub for evidence tracking
-
-### Lab Infrastructure
-Network: 192.168.1.0/24 (Simulated Corporate Environment)
-├── DC01 (Domain Controller - Primary)
-├── CLIENT01 (Windows 10/11 Workstation)
-└── Additional VMs (as needed for labs)
-
-text
+- **Version Control:** Git and GitHub for evidence tracking
 
 ---
 
-## 📁 Portfolio Structure
-IT-Portfolio/
-├── labs/ # Detailed lab documentation
-│ ├── 001-hardware-diagnostic.md
-│ ├── 002-server-deployment.md
-│ └── [future labs...]
-├── scripts/ # PowerShell & automation scripts
-│ ├── user-management/
-│ └── system-administration/
-├── certifications/ # Certification progress & notes
-│ ├── google-it-support/
-│ └── comptia-a-plus/
-└── evidence/ # Screenshots & configuration files
-├── active-directory/
-└── network-configs/
 
-text
-
----
 
 ## 🎯 Current Focus (Phase 1: 90-Day Job Sprint)
 
 ### Active Certifications in Progress
-- **Google IT Support Certificate** (Expected: Jan 2026)
-- **CompTIA A+** (Core 1 & 2 - Target: Q1 2026)
+- **Google IT Support Certificate**
+- **CompTIA A+** (Core 1 & 2)
 
 ### This Week's Labs
 1. ✅ Lab 001: Virtual Hardware Diagnostic
-2. 🚧 Lab 002: Windows Server 2022 Deployment
+2. 🚧 Lab 002: VM Boot Configuration Troubleshooting
 3. ◻️ Lab 003: Active Directory Domain Services Setup
 4. ◻️ Lab 004: User & Group Management via PowerShell
 
@@ -103,8 +76,8 @@ text
 
 | Lab # | Topic | Status | Evidence |
 |-------|-------|--------|----------|
-| 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](labs/001-hardware-diagnostic.md) |
-| 002 | Windows Server Deployment | 🚧 In Progress | [View Lab](labs/002-server-deployment.md) |
+| 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](labs/pc-hardware-diagnostics.md) |
+| 002 | VM Boot Configuration Troubleshooting| 🚧 In Progress | [View Lab](labs/vm-boot-configuration-troubleshooting.md) |
 | 003 | Active Directory Setup | ◻️ Planned | |
 | 004 | PowerShell User Management | ◻️ Planned | |
 
@@ -112,7 +85,7 @@ text
 
 ## 🎓 Certification Roadmap
 
-1. **Google IT Support Certificate** (Jan 2026)
+1. **Google IT Support Certificate** (Nov 2025)
 2. **CompTIA A+** (Q1 2026)
 3. **CompTIA Network+** (2026)
 4. **CompTIA Security+** (2026)
@@ -135,6 +108,4 @@ text
 - **2025-01-15:** Windows Server 2022 deployment in progress
 - **2025-01-15:** Home lab infrastructure established
 
----
 
-> **"I'm building my IT career one lab at a time. Follow along as I transition from management roles to Systems Administration through hands-on learning and certification."**
