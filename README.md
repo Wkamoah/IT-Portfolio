@@ -23,6 +23,14 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Applied solution to original DC01 VM
 **Outcome:** Both domain controllers now operational, deeper understanding of virtualization platform
 
+### Client vs Server OS Discovery
+**Challenge:** Attempted to install Active Directory on Windows 10 VMs (DC01/DC02)  
+**Discovery:** Windows 10 is a client OS and cannot run server roles like Active Directory Domain Services  
+**Solution:** 
+- Researched differences between client and server operating systems
+- Identified the need for Windows Server 2022 for domain controller functionality
+- Documented the learning process and created recovery plan
+**Outcome:** Deeper understanding of OS fundamentals and proper lab environment planning
 
 ---
 
@@ -33,7 +41,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - **Domain Controller:** Windows Server 2022 (DC01)
 - **Client Machine:** Windows 10
 - **Ticketing System:** Freshdesk for lab documentation
-- **Version Control:** Git and GitHub for evidence tracking
+- **Version Control:** GitHub for evidence tracking
 
 ---
 
@@ -47,9 +55,9 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 ### This Week's Labs
 1. ✅ Lab 001: Virtual Hardware Diagnostic
-2. 🚧 Lab 002: VM Boot Configuration Troubleshooting
-3. ◻️ Lab 003: Active Directory Domain Services Setup
-4. ◻️ Lab 004: User & Group Management via PowerShell
+2. ✅ Lab 002: VM Boot Configuration Troubleshooting
+3. ✅ Lab 003: Client vs Server OS Discovery
+4. ◻️ Lab 004: Active Directory Setup
 
 ---
 
@@ -77,9 +85,9 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 | Lab # | Topic | Status | Evidence |
 |-------|-------|--------|----------|
 | 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/pc-hardware%20diagnostics.md) |
-| 002 | VM Boot Configuration Troubleshooting| 🚧 In Progress | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
-| 003 | Active Directory Setup | ◻️ Planned | |
-| 004 | PowerShell User Management | ◻️ Planned | |
+| 002 | VM Boot Configuration Troubleshooting| ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
+| 003 | Client vs Server OS Discovery | ✅ Complete | |
+| 004 | Active Directory Setup | ◻️ Planned | |
 
 ---
 
@@ -103,9 +111,9 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 ## 🔄 Update Log
 
-- **2025-01-15:** Repository created with initial lab structure
-- **2025-01-15:** Completed Lab 001 - Virtual Hardware Diagnostic
-- **2025-01-15:** Windows Server 2022 deployment in progress
-- **2025-01-15:** Home lab infrastructure established
+- **2025-10-10:** Repository created with initial lab structure
+- **2025-10-23:** Completed Lab 001 - Virtual Hardware Diagnostic
+- **2025-10-23:** Windows Server 2022 deployment (Lesson Learned)
+- **2025-10-31:** Home lab infrastructure established
 
 
