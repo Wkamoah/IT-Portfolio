@@ -52,7 +52,7 @@ Following the client/server OS discovery in Lab 003, this lab implements Active 
 - ✅ AD DS role shown as installed in Server Manager
 
 ## Evidence
-- 
+- https://github.com/Wkamoah/IT-Portfolio/tree/main/evidence/lab%20004
 
 ## Skills Demonstrated
 - Windows Server GUI navigation and management
