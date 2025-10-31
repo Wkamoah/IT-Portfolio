@@ -57,7 +57,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 1. ✅ Lab 001: Virtual Hardware Diagnostic
 2. ✅ Lab 002: VM Boot Configuration Troubleshooting
 3. ✅ Lab 003: Client vs Server OS Discovery
-4. ◻️ Lab 004: Active Directory Setup
+4. ✅ Lab 004: Active Directory Setup
 
 ---
 
@@ -66,7 +66,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 ### 🖥️ Systems Administration
 ![Active Directory](https://img.shields.io/badge/Active_Directory-Learning-yellow?style=flat)
 ![PowerShell](https://img.shields.io/badge/PowerShell-Learning-yellow?style=flat)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Learning-yellow?style=flat)
+![Windows Server](https://img.shields.io/badge/Windows_Server-Intermediate-green?style=flat)
 
 ### 🌐 Networking Fundamentals
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-Learning-yellow?style=flat)
@@ -87,7 +87,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 | 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/pc-hardware%20diagnostics.md) |
 | 002 | VM Boot Configuration Troubleshooting| ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
 | 003 | Client vs Server OS Discovery | ✅ Complete |  [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/client-vs-server-os-discovery.md) |
-| 004 | Active Directory Setup | ◻️ Planned | |
+| 004 | Active Directory Setup | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/client-vs-server-os-discovery.md) | 
 
 ---
 
