@@ -39,7 +39,7 @@
 4. **Proceed with original AD DS lab objectives** on correct platform
 
 ## Evidence
-
+- https://github.com/Wkamoah/IT-Portfolio/tree/main/evidence/lab%20003
 
 ## Lessons Learned
 1. **Environment verification** is crucial before beginning complex configurations
