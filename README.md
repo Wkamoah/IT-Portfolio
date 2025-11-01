@@ -14,7 +14,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 ## 📚 Learning Journey & Problem-Solving
 
-### Virtualization Boot Challenge
+### Virtualization Boot Challenge (23.10.2025)
 **Challenge:** Initial DC01 VM failed to boot during Windows Server deployment  
 **Discovery:** VirtualBox requires explicit boot configuration from ISO files  
 **Solution:** 
@@ -23,7 +23,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Applied solution to original DC01 VM
 **Outcome:** Both domain controllers now operational, deeper understanding of virtualization platform
 
-### Client vs Server OS Discovery
+### Client vs Server OS Discovery (31.10.2025)
 **Challenge:** Attempted to install Active Directory on Windows 10 VMs (DC01/DC02)  
 **Discovery:** Windows 10 is a client OS and cannot run server roles like Active Directory Domain Services  
 **Solution:** 
@@ -32,6 +32,25 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Documented the learning process and created recovery plan
 **Outcome:** Deeper understanding of OS fundamentals and proper lab environment planning
 
+### Freshdesk Workflow Optimization (01.11.2025)
+**Challenge:** 
+- Ticket documentation for LAB# 001,002,003 and 004 lacked professional structure.
+- No Freshdesk Tutorial for in-depth knowledge of the features of Freshdesk
+  
+**Discovery:** Professional IT support requires systematic ticket management for tracking and accountability.  
+
+**Solution:** 
+- Watched a Freshdesk tutorial video on youtube, took notes and tried some features.
+- Video link =  https://www.youtube.com/watch?v=5MUFKgNuN84
+  
+**Key Learnings:** 
+- Freshdesk can do automatic ticket assignment using a "Round Robin" system to evenly distribute work among agents.
+- I can add automatic escalation rules to alert managers if a ticket remains unassigned for a set time, ensuring nothing gets forgotten.
+- Freshdesk can track team performance metrics on its dashboard, like unresolved tickets per group and average response times.
+- I can set different agent access levels (Global, Group, Restricted) and track their availability status (e.g., Working, Away).
+- I can use private internal notes on tickets for team communication that the customer cannot see.
+- Freshdesk allows you to use a custom professional email domain (e.g., support@winfredlab.com) instead of a generic address.
+- I can customize ticket fields and dropdowns (like Type, Priority, Source) to fit my lab's specific workflow.
 ---
 
 ## 🛠️ Active Home Lab Environment
@@ -105,15 +124,15 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 - **Email:** wcannerro@gmail.com | winfredkofiamoah@mail.com
 - **GitHub:** [@Wkamoah](https://github.com/Wkamoah)
-- **Location:** Moscow, Russia (Ghanaian with Russian work permit)
+- **Location:** Moscow, Russia (Peoples' Friendship Univerity of Russia)
 
 ---
 
 ## 🔄 Update Log
 
-- **2025-10-10:** Repository created with initial lab structure
+- **2025-10-22:** Repository created with initial lab structure
 - **2025-10-23:** Completed Lab 001 - Virtual Hardware Diagnostic
-- **2025-10-23:** Windows Server 2022 deployment (Lesson Learned)
-- **2025-10-31:** Home lab infrastructure established
+- **2025-10-31:** Windows Server 2022 deployment (Lesson Learned)
+- **2025-11-01:** Freshdesk Optimization
 
 
