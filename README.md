@@ -14,7 +14,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 ## 📚 Learning Journey & Problem-Solving
 
-### Virtualization Boot Challenge (23.10.2025)
+### 1. Virtualization Boot Challenge (23.10.2025)
 **Challenge:** Initial DC01 VM failed to boot during Windows Server deployment  
 **Discovery:** VirtualBox requires explicit boot configuration from ISO files  
 **Solution:** 
@@ -32,7 +32,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Documented the learning process and created recovery plan
 **Outcome:** Deeper understanding of OS fundamentals and proper lab environment planning
 
-### Freshdesk Workflow Optimization (01.11.2025)
+### 2. Freshdesk Workflow Optimization (01.11.2025)
 **Challenge:** 
 - Ticket documentation for LAB# 001,002,003 and 004 lacked professional structure.
 - No Freshdesk Tutorial for in-depth knowledge of the features of Freshdesk
@@ -51,6 +51,17 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - I can use private internal notes on tickets for team communication that the customer cannot see.
 - Freshdesk allows you to use a custom professional email domain (e.g., support@winfredlab.com) instead of a generic address.
 - I can customize ticket fields and dropdowns (like Type, Priority, Source) to fit my lab's specific workflow.
+
+### 3. Real-World Hardware & Boot Troubleshooting (04.11.2025)
+**Challenge:** Colleague's Dell laptop had dual issues: boot failures and automatic power-on  
+**Discovery:** 
+- **Boot Issue:** GPT disk partition required UEFI mode, but BIOS was set to Legacy/CSM
+- **Power Issue:** Physical power button was mechanically stuck, sending constant "on" signal
+**Solution:**
+- Systematically eliminated software causes using `powercfg -lastwake` and BIOS settings
+- Identified hardware fault via sleep mode test (unresponsive power button)
+- Configured UEFI-only boot mode and advised on hardware repair
+**Outcome:** Successfully diagnosed complex multi-layer issue combining firmware configuration and physical hardware failure
 ---
 
 ## 🛠️ Active Home Lab Environment
@@ -66,17 +77,12 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 
 
-## 🎯 Current Focus (Phase 1: 90-Day Job Sprint)
+## 🎯 Current Focus (Phase 1: 90-Day)
 
 ### Active Certifications in Progress
 - **Google IT Support Certificate**
 - **CompTIA A+** (Core 1 & 2)
 
-### This Week's Labs
-1. ✅ Lab 001: Virtual Hardware Diagnostic
-2. ✅ Lab 002: VM Boot Configuration Troubleshooting
-3. ✅ Lab 003: Client vs Server OS Discovery
-4. ✅ Lab 004: Active Directory Setup
 
 ---
 
@@ -107,6 +113,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 | 002 | VM Boot Configuration Troubleshooting| ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
 | 003 | Client vs Server OS Discovery | ✅ Complete |  [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/client-vs-server-os-discovery.md) |
 | 004 | Active Directory Setup | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/active-directory-domain-services.md) | 
+| Rea 001 | Dell Laptop Boot and Hardware Troubleshooting | ✅ Complete | [View Lab]() | 
 
 ---
 
