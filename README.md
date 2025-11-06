@@ -113,7 +113,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 | 002 | VM Boot Configuration Troubleshooting| ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
 | 003 | Client vs Server OS Discovery | ✅ Complete |  [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/client-vs-server-os-discovery.md) |
 | 004 | Active Directory Setup | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/active-directory-domain-services.md) | 
-| Rea 001 | Dell Laptop Boot and Hardware Troubleshooting | ✅ Complete | [View Lab]() | 
+| Rea 001 | Dell Laptop Boot and Hardware Troubleshooting | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/realworld/laptop-boot-power-issue-troubleshooting.md) | 
 
 ---
 
