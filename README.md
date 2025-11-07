@@ -62,6 +62,17 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Identified hardware fault via sleep mode test (unresponsive power button)
 - Configured UEFI-only boot mode and advised on hardware repair
 **Outcome:** Successfully diagnosed complex multi-layer issue combining firmware configuration and physical hardware failure
+
+### 4. Lenovo Laptop Microphone Diagnosis (07.11.2025)
+**Challenge:** Friend's laptop microphone failed system-wide, preventing audio calls  
+**Discovery:** 
+- Hardware was detected but produced no input
+- Built-in Windows microphone test failed
+**Solution:**
+- Reproduced issue across multiple applications (Telegram, Camera app)
+- Isolated problem as system-level, not app-specific
+- Resolved by installing Windows Updates, which fixed corrupted audio drivers
+**Outcome:** Restored full microphone functionality through systematic driver troubleshooting
 ---
 
 ## 🛠️ Active Home Lab Environment
@@ -114,6 +125,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 | 003 | Client vs Server OS Discovery | ✅ Complete |  [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/client-vs-server-os-discovery.md) |
 | 004 | Active Directory Setup | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/active-directory-domain-services.md) | 
 | Rea 001 | Dell Laptop Boot and Hardware Troubleshooting | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/realworld/laptop-boot-power-issue-troubleshooting.md) | 
+| Rea 002 | Lenovo Laptop Microphone Failure Resolution | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/realworld/laptop-boot-power-issue-troubleshooting.md) |
 
 ---
 
