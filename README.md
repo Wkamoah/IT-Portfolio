@@ -7,10 +7,11 @@ This repository tracks my practical progression through IT Support, Helpdesk wor
 
 ## 🚀 About This Portfolio
 
-I'm **Winfred Kofi Amoah**, an IT Support Specialist based in Moscow, building skills through home labs and real-world troubleshooting. This portfolio serves as evidence of my technical problem-solving, workflow optimization, and systems administration capabilities.
+I'm **Winfred Kofi Amoah**, a Google-certified IT Support Specialist based in Moscow, building skills through home labs and real-world troubleshooting. This portfolio serves as evidence of my technical problem-solving, workflow optimization, and systems administration capabilities.
 
 **Current Focus:** IT Support & Helpdesk Operations  
-**Target:** Remote Technical Support role | **Trajectory:** Systems Administration
+**Target:** Remote Technical Support / Junior SysAdmin Role  
+**Trajectory:** Systems Administration → Infrastructure Operations
 
 ---
 
@@ -28,7 +29,7 @@ Language barriers in Russian tickets slow response times and risk miscommunicati
 - **Human Review:** Specialist dashboard for editing before final response  
 
 **Technical Stack**  
-React frontend, Python/FastAPI backend (planned), documentation-driven retrieval workflow
+React (TypeScript) frontend, Python/FastAPI backend, RAG pipeline, IMAP/Telegram API integration
 
 **Current Status**  
 Functional prototype with documented workflow and mock API, designed for production deployment
@@ -132,15 +133,15 @@ Functional prototype with documented workflow and mock API, designed for product
 - Network troubleshooting methodology  
 - ITSM workflow optimization  
 
-
 ---
 
 ## 📫 Contact & Links
 
-- **GitHub:** [@Wkamoah](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/evidence/Portfolio-I-v1.5-alpha.1.zip)  
+- **GitHub:** [@Wkamoah](https://github.com/Wkamoah)  
+- **LinkedIn:** [Winfred Kofi Amoah](https://linkedin.com/in/winfred-kofi-amoah-6b9296397)  
 - **Location:** Moscow, Russia | Peoples' Friendship University of Russia (RUDN)  
 - **Languages:** English (Native), Russian (Working proficiency for technical support)  
 
 ---
 
-**[⬅️ Back to Main Profile](https://raw.githubusercontent.com/Wkamoah/IT-Portfolio/main/evidence/Portfolio-I-v1.5-alpha.1.zip)**
+**[⬅️ Back to Main Profile](https://github.com/Wkamoah)**
